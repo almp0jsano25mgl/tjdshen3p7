@@ -1,2 +1,1 @@
-wget
-ls
+mkdir fourfour98
